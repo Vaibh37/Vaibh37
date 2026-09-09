@@ -1,31 +1,29 @@
-<!-- ====================================================== -->
-<!--                    VAIBH37 PROFILE                     -->
-<!-- ====================================================== -->
+<!-- ===================================================== -->
+<!--                     VAIBH37                           -->
+<!-- ===================================================== -->
 
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Vaibh37 Developer Profile"/>
+<img src="./assets/hero.svg" width="100%" />
 
 <br/>
 
 <a href="https://git.io/typing-svg">
 <img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=%24+npm+run+build;%3E+Turning+ideas+into+working+products...;%3E+Exploring+MERN+%2B+AI...;%3E+Debugging+until+it+works...;%3E+Shipping+the+next+version."
-alt="Typing animation"
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2400&pause=700&color=58A6FF&center=true&vCenter=true&repeat=true&width=900&height=55&lines=%24+initialize+developer_profile;%3E+Building+things+for+the+web...;%3E+Going+deeper+into+MERN...;%3E+Exploring+AI...;%3E+Breaking+things+until+I+understand+them...;%3E+Shipping+the+next+version."
 />
 </a>
 
 <br/>
 
+<img src="https://img.shields.io/badge/FULL_STACK-1F6FEB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MERN-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/AI-8A2BE2?style=for-the-badge" />
 <img src="https://img.shields.io/badge/STATUS-BUILDING-3FB950?style=for-the-badge" />
-<img src="https://img.shields.io/badge/FOCUS-FULL_STACK-1F6FEB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/STACK-MERN-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/EXPLORING-AI-8A2BE2?style=for-the-badge" />
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Vaibh37&label=PROFILE%20VIEWS&style=flat-square" />
-
 <img src="https://img.shields.io/github/followers/Vaibh37?label=FOLLOWERS&style=flat-square&logo=github" />
 
 </div>
@@ -36,100 +34,96 @@ alt="Typing animation"
 
 <div align="center">
 
-## `> whoami`
-
-</div>
-
-```javascript
-const vaibh37 = {
-
-    focus: [
-        "Full-Stack Development",
-        "MERN",
-        "AI"
-    ],
-
-    currentlyBuilding: "StudyOS",
-
-    mindset: "Build → Break → Debug → Understand → Improve → Ship",
-
-    status: "Always learning."
-};
-```
-
-I build things for the web.
-
-My current focus is **MERN and full-stack product development**, while exploring how **AI, modern databases and backend systems** can become part of useful software.
-
-Most of my learning happens where it matters:
-
-**inside the build.**
-
----
-
-<div align="center">
-
-## `> tech --stack`
+## `// ABOUT`
 
 </div>
 
 <br/>
 
+<img src="./assets/console.svg" width="100%" />
+
+<br/>
+
+I build things for the web and learn by actually making them work.
+
+My main direction is **full-stack development with MERN**, while gradually going deeper into **backend systems, databases, modern frontend development, and AI**.
+
+I like understanding the complete path from an idea to something people can actually use:
+
 <div align="center">
 
-### CORE
+### `idea → architecture → code → bugs → debugging → understanding → better code → ship`
 
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+</div>
+
+<br/>
+
+I'm not interested in collecting technologies just to make a stack look bigger.
+
+I'm interested in becoming capable enough to take increasingly difficult ideas and turn them into working software.
+
+<br/>
+
+---
+
+<div align="center">
+
+## `// SYSTEM MODULES`
+
+### Technologies I'm working with, improving, and exploring
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs&theme=dark" />
 
 <br/><br/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,redis&theme=dark" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode,vercel&theme=dark" />
+
+</div>
+
+<br/><br/>
+
+<div align="center">
+
+### WEB
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<br/>
 
 ### FRONTEND
 
-<img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" />
+<img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 
-<br/><br/>
+<br/>
 
 ### BACKEND
 
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+<img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPRESS.JS-000000?style=for-the-badge&logo=express&logoColor=white"/>
 
-<br/><br/>
+<br/>
 
 ### DATA
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis&theme=dark" />
+<img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 
-<br/><br/>
+<br/>
 
 ### PROGRAMMING
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark" />
-
-<br/><br/>
-
-### TOOLING
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs)
-![Express](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express)
-
-<br/>
-
-![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
-![Redis](https://img.shields.io/badge/Redis-000?style=for-the-badge&logo=redis)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 </div>
 
@@ -139,203 +133,102 @@ Most of my learning happens where it matters:
 
 <div align="center">
 
-## `> ls ./projects`
-
-</div>
-
-<br/>
-
-<div align="center">
-
-# STUDYOS
-
-### `ACTIVE DEVELOPMENT`
-
-**A full-stack productivity platform built around study workflows.**
-
-<br/>
-
-<img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-F97316?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/TYPE-FULL_STACK-1F6FEB?style=for-the-badge" />
-
-<br/><br/>
-
-`React` • `Node.js` • `Express.js` • `MongoDB`
-
-<br/><br/>
-
-Built around tasks, subjects, notes, events, study sessions, authentication and a growing productivity system.
-
-Currently being refined across:
-
-`UI` • `UX` • `Architecture` • `Features` • `Performance`
-
-<br/><br/>
-
-<a href="https://github.com/Vaibh37/Studyos">
-<img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://studyos-one-omega.vercel.app/">
-<img src="https://img.shields.io/badge/LIVE_BUILD-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</div>
-
-<br/><br/>
-
----
-
-<div align="center">
-
-# QRIFY
-
-### `PWA / CLIENT-SIDE TOOL`
-
-A lightweight QR generator built around speed, privacy and offline functionality.
-
-<br/>
-
-`HTML` • `CSS` • `JavaScript` • `PWA`
-
-<br/><br/>
-
-Client-side generation means the data doesn't need to leave the browser.
-
-<br/><br/>
-
-<a href="https://github.com/Vaibh37/qrify">
-<img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
-<br/><br/>
-
----
-
-<div align="center">
-
-# DEVVAIBHAV37 LINKS
-
-### `PERSONAL WEB`
-
-A custom-built personal link hub connecting my work and online presence.
-
-<br/>
-
-`HTML` • `CSS` • `JavaScript`
-
-<br/><br/>
-
-<a href="https://github.com/Vaibh37/devvaibhav37-links">
-<img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-## `> git status`
+## `// CURRENT VECTOR`
 
 </div>
 
 ```text
-On branch: main
+01 ───────────────────────────────► JavaScript
+     stronger fundamentals
 
-CURRENT MISSION
-────────────────────────────────────────
+02 ───────────────────────────────► React / Next.js
+     modern frontend architecture
 
-[●] Build real products
-[●] Strengthen JavaScript fundamentals
-[●] Go deeper into MERN
-[●] Learn modern backend architecture
-[●] Explore AI integrations
-[●] Ship better versions
+03 ───────────────────────────────► Node / Express
+     backend systems & APIs
 
-CURRENT PROJECT
-────────────────────────────────────────
+04 ───────────────────────────────► Databases
+     MongoDB • PostgreSQL • MySQL • Redis
 
-StudyOS
+05 ───────────────────────────────► AI
+     integrations • APIs • intelligent products
 
-STATUS
-────────────────────────────────────────
-
-Development in progress...
+06 ───────────────────────────────► Engineering
+     better structure • better decisions • better software
 ```
-
----
-
-<div align="center">
-
-## `> learning --now`
 
 <br/>
 
-<img src="https://img.shields.io/badge/JAVASCRIPT-IMPROVING-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<div align="center">
 
-<img src="https://img.shields.io/badge/REACT-LEARNING-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/JAVASCRIPT-IMPROVING-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/NEXT.JS-EXPLORING-000000?style=for-the-badge&logo=nextdotjs" />
+<img src="https://img.shields.io/badge/REACT-LEARNING-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 
-<br/><br/>
+<img src="https://img.shields.io/badge/NEXT.JS-EXPLORING-000000?style=flat-square&logo=nextdotjs"/>
 
-<img src="https://img.shields.io/badge/NODE.JS-BACKEND-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/BACKEND-GOING_DEEPER-339933?style=flat-square&logo=nodedotjs"/>
 
-<img src="https://img.shields.io/badge/DATABASES-LEARNING-4169E1?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/AI-EXPLORING-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI-EXPLORING-8A2BE2?style=flat-square"/>
 
 </div>
 
 <br/>
 
-<details>
+---
 
-<summary><b>Open full development roadmap</b></summary>
+<div align="center">
 
-<br/>
+## `// HOW I LEARN`
 
-### Frontend
+</div>
 
-- HTML
-- CSS
-- JavaScript
-- React
-- Next.js
+```text
+                       ┌─────────────┐
+                       │    IDEA     │
+                       └──────┬──────┘
+                              │
+                              ▼
+                       ┌─────────────┐
+                       │    BUILD    │
+                       └──────┬──────┘
+                              │
+                              ▼
+                       ┌─────────────┐
+                       │    BREAK    │
+                       └──────┬──────┘
+                              │
+                              ▼
+                       ┌─────────────┐
+                       │    DEBUG    │
+                       └──────┬──────┘
+                              │
+                              ▼
+                       ┌─────────────┐
+                       │ UNDERSTAND  │
+                       └──────┬──────┘
+                              │
+                              ▼
+                       ┌─────────────┐
+                       │   IMPROVE   │
+                       └──────┬──────┘
+                              │
+                              ▼
+                       ┌─────────────┐
+                       │    SHIP     │
+                       └──────┬──────┘
+                              │
+                              └──────────────┐
+                                             │
+                                             ▼
+                                           REPEAT
+```
 
-### Backend
+<div align="center">
 
-- Node.js
-- Express.js
-- REST APIs
-- Authentication
-- Application architecture
+### Every build should make the next build better.
 
-### Databases
-
-- MongoDB
-- PostgreSQL
-- MySQL
-- Redis
-
-### Programming
-
-- JavaScript
-- Python
-
-### Exploring
-
-- AI integrations
-- LLM APIs
-- AI-powered product features
-
-</details>
+</div>
 
 <br/>
 
@@ -343,7 +236,7 @@ Development in progress...
 
 <div align="center">
 
-## `> github --stats`
+## `// GITHUB TELEMETRY`
 
 <br/>
 
@@ -384,13 +277,13 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-langu
 
 <div align="center">
 
-## `> git streak`
+## `// CONSISTENCY`
 
 <br/>
 
 <img
 src="https://streak-stats.demolab.com?user=Vaibh37&theme=github-dark-blue&hide_border=true&border_radius=12"
-width="70%"
+width="68%"
 />
 
 </div>
@@ -401,7 +294,7 @@ width="70%"
 
 <div align="center">
 
-## `> ./contribution-snake`
+## `// CONTRIBUTION ENGINE`
 
 <br/>
 
@@ -433,37 +326,45 @@ src="https://raw.githubusercontent.com/Vaibh37/Vaibh37/output/github-snake.svg"
 
 <div align="center">
 
-## `> philosophy.txt`
+## `// PRINCIPLES`
 
 </div>
 
-```text
-               IDEA
-                 │
-                 ▼
-               BUILD
-                 │
-                 ▼
-               BREAK
-                 │
-                 ▼
-               DEBUG
-                 │
-                 ▼
-             UNDERSTAND
-                 │
-                 ▼
-              IMPROVE
-                 │
-                 ▼
-                SHIP
-                 │
-                 └──────────► REPEAT
+```javascript
+const principles = {
+
+    build: "Don't stop at tutorials.",
+
+    learn: "Understand what the code is doing.",
+
+    debug: "Errors are part of the process.",
+
+    improve: "The next version should be better.",
+
+    ship: "Working software beats unfinished ideas.",
+
+    repeat: true
+
+};
 ```
+
+<br/>
+
+---
 
 <div align="center">
 
-### Every build should make the next build better.
+## `// REPOSITORIES`
+
+The interesting part isn't this README.
+
+It's the things being built behind it.
+
+<br/><br/>
+
+<a href="https://github.com/Vaibh37?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-1F6FEB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
@@ -473,7 +374,7 @@ src="https://raw.githubusercontent.com/Vaibh37/Vaibh37/output/github-snake.svg"
 
 <div align="center">
 
-## `> connect --all`
+## `// CONNECTION`
 
 <br/>
 
@@ -488,7 +389,13 @@ src="https://raw.githubusercontent.com/Vaibh37/Vaibh37/output/github-snake.svg"
 <br/><br/><br/>
 
 ```text
-VAIBH37 // BUILDING THE NEXT VERSION
+╔══════════════════════════════════════════════════════════╗
+║                                                        ║
+║              BUILDING THE NEXT VERSION                 ║
+║                                                        ║
+║                   VAIBH37 // ONLINE                    ║
+║                                                        ║
+╚══════════════════════════════════════════════════════════╝
 ```
 
 </div>
