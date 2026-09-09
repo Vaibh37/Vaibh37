@@ -1,53 +1,63 @@
-<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none"
+<svg width="1200" height="420" viewBox="0 0 1200 420"
 xmlns="http://www.w3.org/2000/svg">
 
 <defs>
 
-  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360">
-    <stop stop-color="#05070A"/>
-    <stop offset="0.5" stop-color="#0D1117"/>
-    <stop offset="1" stop-color="#07111F"/>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="420">
+    <stop offset="0%" stop-color="#030712"/>
+    <stop offset="45%" stop-color="#0D1117"/>
+    <stop offset="100%" stop-color="#071829"/>
   </linearGradient>
 
-  <linearGradient id="line" x1="0" y1="0" x2="1200" y2="0">
-    <stop stop-color="#58A6FF" stop-opacity="0"/>
-    <stop offset=".5" stop-color="#58A6FF"/>
-    <stop offset="1" stop-color="#58A6FF" stop-opacity="0"/>
+  <radialGradient id="glow">
+    <stop offset="0%" stop-color="#58A6FF" stop-opacity=".28"/>
+    <stop offset="100%" stop-color="#58A6FF" stop-opacity="0"/>
+  </radialGradient>
+
+  <linearGradient id="scanGradient">
+    <stop offset="0%" stop-color="#58A6FF" stop-opacity="0"/>
+    <stop offset="50%" stop-color="#58A6FF"/>
+    <stop offset="100%" stop-color="#58A6FF" stop-opacity="0"/>
   </linearGradient>
 
-  <filter id="glow">
-    <feGaussianBlur stdDeviation="6" result="blur"/>
+  <pattern id="grid" width="40" height="40"
+  patternUnits="userSpaceOnUse">
+
+    <path
+      d="M40 0H0V40"
+      fill="none"
+      stroke="#58A6FF"
+      stroke-width="1"
+      opacity=".06"
+    />
+
+  </pattern>
+
+  <filter id="strongGlow">
+    <feGaussianBlur stdDeviation="7" result="blur"/>
     <feMerge>
       <feMergeNode in="blur"/>
       <feMergeNode in="SourceGraphic"/>
     </feMerge>
   </filter>
 
-  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-    <path d="M 40 0 L 0 0 0 40"
-    fill="none"
-    stroke="#58A6FF"
-    stroke-opacity=".07"
-    stroke-width="1"/>
-  </pattern>
-
 </defs>
 
 <style>
 
 .title {
-  font-family: 'Segoe UI', sans-serif;
-  font-size: 72px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 78px;
   font-weight: 800;
-  fill: white;
-  letter-spacing: 6px;
+  letter-spacing: 10px;
+  fill: #FFFFFF;
 }
 
 .subtitle {
   font-family: monospace;
   font-size: 18px;
+  letter-spacing: 5px;
   fill: #58A6FF;
-  letter-spacing: 4px;
 }
 
 .small {
@@ -56,7 +66,7 @@ xmlns="http://www.w3.org/2000/svg">
   fill: #8B949E;
 }
 
-.status {
+.green {
   font-family: monospace;
   font-size: 14px;
   fill: #3FB950;
@@ -67,36 +77,54 @@ xmlns="http://www.w3.org/2000/svg">
 }
 
 .pulse {
-  animation: pulse 2s ease-in-out infinite;
+  animation: pulse 1.8s ease-in-out infinite;
 }
 
-.fade {
-  animation: fade 3s ease-in-out infinite;
+.rotate {
+  transform-origin: 600px 215px;
+  animation: spin 18s linear infinite;
+}
+
+.rotateReverse {
+  transform-origin: 600px 215px;
+  animation: spinReverse 12s linear infinite;
+}
+
+.float1 {
+  animation: floating 4s ease-in-out infinite;
+}
+
+.float2 {
+  animation: floating 5s ease-in-out infinite reverse;
+}
+
+.blink {
+  animation: blink 1s step-end infinite;
 }
 
 @keyframes scan {
-  0% {
+  from {
     transform: translateY(-100px);
     opacity: 0;
   }
 
-  20% {
-    opacity: .7;
+  15% {
+    opacity: .8;
   }
 
-  80% {
-    opacity: .7;
+  85% {
+    opacity: .8;
   }
 
-  100% {
-    transform: translateY(460px);
+  to {
+    transform: translateY(520px);
     opacity: 0;
   }
 }
 
 @keyframes pulse {
   0%,100% {
-    opacity: .35;
+    opacity: .25;
   }
 
   50% {
@@ -104,113 +132,266 @@ xmlns="http://www.w3.org/2000/svg">
   }
 }
 
-@keyframes fade {
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes spinReverse {
+  from {
+    transform: rotate(360deg);
+  }
+
+  to {
+    transform: rotate(0deg);
+  }
+}
+
+@keyframes floating {
   0%,100% {
-    opacity: .5;
+    transform: translateY(0px);
   }
 
   50% {
+    transform: translateY(-10px);
+  }
+}
+
+@keyframes blink {
+  0%,49% {
     opacity: 1;
+  }
+
+  50%,100% {
+    opacity: 0;
   }
 }
 
 </style>
 
-<rect width="1200" height="360" rx="22" fill="url(#bg)"/>
+<!-- background -->
 
-<rect width="1200" height="360" rx="22" fill="url(#grid)"/>
+<rect width="1200" height="420" rx="24" fill="url(#bg)"/>
 
-<circle
-cx="86"
-cy="52"
-r="6"
-fill="#FF5F56"/>
+<rect width="1200" height="420" rx="24" fill="url(#grid)"/>
 
-<circle
-cx="108"
-cy="52"
-r="6"
-fill="#FFBD2E"/>
+<circle cx="600" cy="210" r="380" fill="url(#glow)"/>
 
-<circle
-cx="130"
-cy="52"
-r="6"
-fill="#27C93F"/>
+<!-- terminal controls -->
 
-<text x="160" y="57" class="small">
+<circle cx="55" cy="43" r="6" fill="#FF5F56"/>
+<circle cx="77" cy="43" r="6" fill="#FFBD2E"/>
+<circle cx="99" cy="43" r="6" fill="#27C93F"/>
+
+<text x="125" y="48" class="small">
 vaibh37@github: ~/profile
 </text>
 
+<text x="1030" y="48" class="green">
+ONLINE
+</text>
+
+<circle
+cx="1015"
+cy="43"
+r="5"
+fill="#3FB950"
+class="pulse"
+/>
+
 <line
-x1="60"
-y1="82"
-x2="1140"
-y2="82"
-stroke="#30363D"/>
+x1="35"
+y1="68"
+x2="1165"
+y2="68"
+stroke="#30363D"
+/>
+
+<!-- rotating system circles -->
+
+<circle
+cx="600"
+cy="215"
+r="145"
+fill="none"
+stroke="#58A6FF"
+stroke-opacity=".10"
+stroke-width="1"
+stroke-dasharray="8 16"
+class="rotate"
+/>
+
+<circle
+cx="600"
+cy="215"
+r="175"
+fill="none"
+stroke="#8957E5"
+stroke-opacity=".10"
+stroke-width="1"
+stroke-dasharray="5 20"
+class="rotateReverse"
+/>
+
+<!-- orbit nodes -->
+
+<g class="rotate">
+
+  <circle
+    cx="600"
+    cy="70"
+    r="5"
+    fill="#58A6FF"
+    filter="url(#strongGlow)"
+  />
+
+  <circle
+    cx="745"
+    cy="215"
+    r="4"
+    fill="#3FB950"
+  />
+
+</g>
+
+<g class="rotateReverse">
+
+  <circle
+    cx="600"
+    cy="40"
+    r="4"
+    fill="#8957E5"
+  />
+
+  <circle
+    cx="425"
+    cy="215"
+    r="4"
+    fill="#58A6FF"
+  />
+
+</g>
+
+<!-- central identity -->
 
 <text
 x="600"
-y="175"
+y="205"
 text-anchor="middle"
 class="title"
-filter="url(#glow)">
+filter="url(#strongGlow)">
 VAIBH37
 </text>
 
 <text
 x="600"
-y="218"
+y="245"
 text-anchor="middle"
 class="subtitle">
-MERN // FULL STACK // AI
+FULL STACK // MERN // AI
 </text>
 
 <text
 x="600"
-y="266"
+y="287"
 text-anchor="middle"
 class="small">
-BUILDING PRODUCTS • BREAKING THINGS • DEBUGGING • SHIPPING
+BUILD • BREAK • DEBUG • UNDERSTAND • IMPROVE • SHIP
 </text>
 
-<circle
-cx="475"
-cy="310"
-r="5"
-fill="#3FB950"
-class="pulse"/>
+<!-- left status -->
 
-<text
-x="490"
-y="315"
-class="status">
-SYSTEM ONLINE
+<g class="float1">
+
+<text x="80" y="135" class="small">
+01 // BUILD
 </text>
 
-<text
-x="650"
-y="315"
-class="small">
-CURRENT BUILD: STUDYOS
+<circle cx="62" cy="130" r="4" fill="#58A6FF"/>
+
+</g>
+
+<g class="float2">
+
+<text x="80" y="175" class="small">
+02 // LEARN
+</text>
+
+<circle cx="62" cy="170" r="4" fill="#8957E5"/>
+
+</g>
+
+<g class="float1">
+
+<text x="80" y="215" class="small">
+03 // SHIP
+</text>
+
+<circle cx="62" cy="210" r="4" fill="#3FB950"/>
+
+</g>
+
+<!-- right -->
+
+<text x="960" y="145" class="small">
+MODE
+</text>
+
+<text x="960" y="170" class="green">
+DEVELOPMENT
+</text>
+
+<text x="960" y="215" class="small">
+VECTOR
+</text>
+
+<text x="960" y="240" class="subtitle">
+FORWARD
+</text>
+
+<!-- bottom -->
+
+<text x="80" y="370" class="small">
+$ build_the_next_version
 </text>
 
 <rect
+x="278"
+y="355"
+width="10"
+height="19"
+fill="#58A6FF"
+class="blink"
+/>
+
+<!-- scanning light -->
+
+<rect
 x="0"
-y="-40"
+y="-30"
 width="1200"
 height="3"
-fill="url(#line)"
+fill="url(#scanGradient)"
+filter="url(#strongGlow)"
 class="scan"
-filter="url(#glow)"/>
+/>
+
+<!-- border -->
 
 <rect
 x="1"
 y="1"
 width="1198"
-height="358"
-rx="21"
+height="418"
+rx="23"
+fill="none"
 stroke="#30363D"
-stroke-width="2"/>
+stroke-width="2"
+/>
 
 </svg>
