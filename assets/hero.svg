@@ -1,0 +1,216 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none"
+xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360">
+    <stop stop-color="#05070A"/>
+    <stop offset="0.5" stop-color="#0D1117"/>
+    <stop offset="1" stop-color="#07111F"/>
+  </linearGradient>
+
+  <linearGradient id="line" x1="0" y1="0" x2="1200" y2="0">
+    <stop stop-color="#58A6FF" stop-opacity="0"/>
+    <stop offset=".5" stop-color="#58A6FF"/>
+    <stop offset="1" stop-color="#58A6FF" stop-opacity="0"/>
+  </linearGradient>
+
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="6" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M 40 0 L 0 0 0 40"
+    fill="none"
+    stroke="#58A6FF"
+    stroke-opacity=".07"
+    stroke-width="1"/>
+  </pattern>
+
+</defs>
+
+<style>
+
+.title {
+  font-family: 'Segoe UI', sans-serif;
+  font-size: 72px;
+  font-weight: 800;
+  fill: white;
+  letter-spacing: 6px;
+}
+
+.subtitle {
+  font-family: monospace;
+  font-size: 18px;
+  fill: #58A6FF;
+  letter-spacing: 4px;
+}
+
+.small {
+  font-family: monospace;
+  font-size: 14px;
+  fill: #8B949E;
+}
+
+.status {
+  font-family: monospace;
+  font-size: 14px;
+  fill: #3FB950;
+}
+
+.scan {
+  animation: scan 4s linear infinite;
+}
+
+.pulse {
+  animation: pulse 2s ease-in-out infinite;
+}
+
+.fade {
+  animation: fade 3s ease-in-out infinite;
+}
+
+@keyframes scan {
+  0% {
+    transform: translateY(-100px);
+    opacity: 0;
+  }
+
+  20% {
+    opacity: .7;
+  }
+
+  80% {
+    opacity: .7;
+  }
+
+  100% {
+    transform: translateY(460px);
+    opacity: 0;
+  }
+}
+
+@keyframes pulse {
+  0%,100% {
+    opacity: .35;
+  }
+
+  50% {
+    opacity: 1;
+  }
+}
+
+@keyframes fade {
+  0%,100% {
+    opacity: .5;
+  }
+
+  50% {
+    opacity: 1;
+  }
+}
+
+</style>
+
+<rect width="1200" height="360" rx="22" fill="url(#bg)"/>
+
+<rect width="1200" height="360" rx="22" fill="url(#grid)"/>
+
+<circle
+cx="86"
+cy="52"
+r="6"
+fill="#FF5F56"/>
+
+<circle
+cx="108"
+cy="52"
+r="6"
+fill="#FFBD2E"/>
+
+<circle
+cx="130"
+cy="52"
+r="6"
+fill="#27C93F"/>
+
+<text x="160" y="57" class="small">
+vaibh37@github: ~/profile
+</text>
+
+<line
+x1="60"
+y1="82"
+x2="1140"
+y2="82"
+stroke="#30363D"/>
+
+<text
+x="600"
+y="175"
+text-anchor="middle"
+class="title"
+filter="url(#glow)">
+VAIBH37
+</text>
+
+<text
+x="600"
+y="218"
+text-anchor="middle"
+class="subtitle">
+MERN // FULL STACK // AI
+</text>
+
+<text
+x="600"
+y="266"
+text-anchor="middle"
+class="small">
+BUILDING PRODUCTS • BREAKING THINGS • DEBUGGING • SHIPPING
+</text>
+
+<circle
+cx="475"
+cy="310"
+r="5"
+fill="#3FB950"
+class="pulse"/>
+
+<text
+x="490"
+y="315"
+class="status">
+SYSTEM ONLINE
+</text>
+
+<text
+x="650"
+y="315"
+class="small">
+CURRENT BUILD: STUDYOS
+</text>
+
+<rect
+x="0"
+y="-40"
+width="1200"
+height="3"
+fill="url(#line)"
+class="scan"
+filter="url(#glow)"/>
+
+<rect
+x="1"
+y="1"
+width="1198"
+height="358"
+rx="21"
+stroke="#30363D"
+stroke-width="2"/>
+
+</svg>
