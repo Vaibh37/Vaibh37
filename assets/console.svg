@@ -1,0 +1,178 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260"
+xmlns="http://www.w3.org/2000/svg">
+
+<style>
+
+.bg {
+  fill: #0D1117;
+}
+
+.border {
+  fill: none;
+  stroke: #30363D;
+  stroke-width: 2;
+}
+
+.text {
+  font-family: monospace;
+  font-size: 17px;
+  fill: #C9D1D9;
+}
+
+.command {
+  font-family: monospace;
+  font-size: 17px;
+  fill: #58A6FF;
+}
+
+.success {
+  font-family: monospace;
+  font-size: 17px;
+  fill: #3FB950;
+}
+
+.dim {
+  font-family: monospace;
+  font-size: 15px;
+  fill: #8B949E;
+}
+
+.cursor {
+  animation: blink 1s step-end infinite;
+}
+
+.line1 {
+  animation: fade1 6s infinite;
+}
+
+.line2 {
+  animation: fade2 6s infinite;
+}
+
+.line3 {
+  animation: fade3 6s infinite;
+}
+
+@keyframes blink {
+
+  50% {
+    opacity: 0;
+  }
+
+}
+
+@keyframes fade1 {
+
+  0%,5% {
+    opacity: 0;
+  }
+
+  15%,100% {
+    opacity: 1;
+  }
+
+}
+
+@keyframes fade2 {
+
+  0%,30% {
+    opacity: 0;
+  }
+
+  40%,100% {
+    opacity: 1;
+  }
+
+}
+
+@keyframes fade3 {
+
+  0%,55% {
+    opacity: 0;
+  }
+
+  65%,100% {
+    opacity: 1;
+  }
+
+}
+
+</style>
+
+<rect width="1200" height="260" rx="18" class="bg"/>
+
+<rect
+x="1"
+y="1"
+width="1198"
+height="258"
+rx="17"
+class="border"
+/>
+
+<circle cx="32" cy="29" r="5" fill="#FF5F56"/>
+<circle cx="52" cy="29" r="5" fill="#FFBD2E"/>
+<circle cx="72" cy="29" r="5" fill="#27C93F"/>
+
+<text x="95" y="35" class="dim">
+developer.console
+</text>
+
+<line
+x1="20"
+y1="52"
+x2="1180"
+y2="52"
+stroke="#30363D"
+/>
+
+<g class="line1">
+
+<text x="40" y="92" class="command">
+$ whoami
+</text>
+
+<text x="165" y="92" class="text">
+Vaibh37 — Developer
+</text>
+
+</g>
+
+<g class="line2">
+
+<text x="40" y="135" class="command">
+$ focus
+</text>
+
+<text x="140" y="135" class="text">
+MERN • Full Stack • AI
+</text>
+
+</g>
+
+<g class="line3">
+
+<text x="40" y="178" class="command">
+$ status
+</text>
+
+<text x="155" y="178" class="success">
+BUILDING // LEARNING // SHIPPING
+</text>
+
+</g>
+
+<text x="40" y="221" class="command">
+$
+</text>
+
+<rect
+x="58"
+y="205"
+width="10"
+height="20"
+fill="#58A6FF"
+class="cursor"
+/>
+
+</svg>
