@@ -4,13 +4,14 @@
 
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" />
+<img src="./assets/hero-v2.svg" width="100%" alt="Vaibh37 Developer Profile" />
 
 <br/>
 
 <a href="https://git.io/typing-svg">
 <img
 src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2400&pause=700&color=58A6FF&center=true&vCenter=true&repeat=true&width=900&height=55&lines=%24+initialize+developer_profile;%3E+Building+things+for+the+web...;%3E+Going+deeper+into+MERN...;%3E+Exploring+AI...;%3E+Breaking+things+until+I+understand+them...;%3E+Shipping+the+next+version."
+alt="Developer typing animation"
 />
 </a>
 
@@ -40,7 +41,7 @@ src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=2
 
 <br/>
 
-<img src="./assets/console.svg" width="100%" />
+<img src="./assets/console.svg" width="100%" alt="Vaibh37 Developer Console" />
 
 <br/>
 
@@ -48,7 +49,7 @@ I build things for the web and learn by actually making them work.
 
 My main direction is **full-stack development with MERN**, while gradually going deeper into **backend systems, databases, modern frontend development, and AI**.
 
-I like understanding the complete path from an idea to something people can actually use:
+I like understanding the complete path from an idea to something people can actually use.
 
 <div align="center">
 
@@ -57,8 +58,6 @@ I like understanding the complete path from an idea to something people can actu
 </div>
 
 <br/>
-
-I'm not interested in collecting technologies just to make a stack look bigger.
 
 I'm interested in becoming capable enough to take increasingly difficult ideas and turn them into working software.
 
@@ -96,21 +95,21 @@ I'm interested in becoming capable enough to take increasingly difficult ideas a
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-<br/>
+<br/><br/>
 
 ### FRONTEND
 
 <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 
-<br/>
+<br/><br/>
 
 ### BACKEND
 
 <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/EXPRESS.JS-000000?style=for-the-badge&logo=express&logoColor=white"/>
 
-<br/>
+<br/><br/>
 
 ### DATA
 
@@ -119,11 +118,20 @@ I'm interested in becoming capable enough to take increasingly difficult ideas a
 <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 
-<br/>
+<br/><br/>
 
 ### PROGRAMMING
 
 <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<br/><br/>
+
+### TOOLING
+
+<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 
 </div>
 
@@ -142,7 +150,7 @@ I'm interested in becoming capable enough to take increasingly difficult ideas a
      stronger fundamentals
 
 02 ───────────────────────────────► React / Next.js
-     modern frontend architecture
+     modern frontend development
 
 03 ───────────────────────────────► Node / Express
      backend systems & APIs
@@ -218,10 +226,7 @@ I'm interested in becoming capable enough to take increasingly difficult ideas a
                        │    SHIP     │
                        └──────┬──────┘
                               │
-                              └──────────────┐
-                                             │
-                                             ▼
-                                           REPEAT
+                              └──────────────► REPEAT
 ```
 
 <div align="center">
@@ -356,9 +361,9 @@ const principles = {
 
 ## `// REPOSITORIES`
 
-The interesting part isn't this README.
+The README introduces the developer.
 
-It's the things being built behind it.
+The repositories show the work.
 
 <br/><br/>
 
