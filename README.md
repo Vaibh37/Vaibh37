@@ -1,55 +1,114 @@
 <div align="center">
 
-<img src="./assets/hero-v2.svg" width="100%" alt="Vaibh37" />
+<img
+  src="./assets/hero-v2.svg"
+  width="100%"
+  alt="Vaibh37 Developer Profile"
+/>
+
+<br/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2300&pause=750&color=58A6FF&center=true&vCenter=true&width=820&height=38&lines=Building+full-stack+products.;MERN+%E2%80%A2+Backend+%E2%80%A2+Databases+%E2%80%A2+AI.;Turning+ideas+into+working+software." />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2400&pause=850&color=58A6FF&center=true&vCenter=true&repeat=true&width=820&height=44&lines=Building+full-stack+software.;MERN+%E2%80%A2+Backend+%E2%80%A2+Databases+%E2%80%A2+AI.;Turning+ideas+into+working+products."
+    alt="Typing animation"
+  />
 </a>
+
+<br/>
 
 <img src="https://img.shields.io/badge/FULL_STACK-1F6FEB?style=flat-square" />
 <img src="https://img.shields.io/badge/MERN-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/AI-7C3AED?style=flat-square" />
-<img src="https://komarev.com/ghpvc/?username=Vaibh37&label=VIEWS&style=flat-square" />
-<img src="https://img.shields.io/github/followers/Vaibh37?label=FOLLOWERS&style=flat-square&logo=github" />
+<img src="https://komarev.com/ghpvc/?username=Vaibh37&label=PROFILE+VIEWS&style=flat-square" />
 
 </div>
+
+<br/>
 
 ---
 
 ## About
 
-I build **full-stack web applications** across frontend, backend, APIs, databases, authentication and deployment — with a growing focus on **MERN and AI-powered software**.
+I build **full-stack web applications** across frontend interfaces, backend APIs, databases, authentication and deployment.
 
-`UI → Application Logic → API → Backend → Database → Deployment`
-
----
-
-## Stack
+My primary ecosystem is **MERN**, alongside modern web technologies, relational databases, caching systems and AI-enabled software.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,postgres,mysql,redis,python,git,github,vscode,vercel&theme=dark&perline=8" />
+**Frontend → API → Backend → Database → Deployment**
 
 </div>
 
-<p align="center">
-<b>Frontend:</b> HTML · CSS · JavaScript · React · Next.js<br/>
-<b>Backend:</b> Node.js · Express.js · REST APIs<br/>
-<b>Data:</b> MongoDB · PostgreSQL · MySQL · Redis<br/>
-<b>Programming & Tools:</b> JavaScript · Python · Git · GitHub · VS Code · Vercel
-</p>
+<br/>
+
+I’m interested in taking ideas beyond prototypes and turning them into complete, usable applications.
 
 ---
 
-## Development Scope
+## Tech Stack
 
-**Full-Stack Applications** — interfaces connected to APIs, authentication, persistent data and deployment.
+<div align="center">
 
-**Backend & APIs** — Node.js, Express.js, REST endpoints, server-side logic and auth flows.
+<img
+  src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb&theme=dark"
+  alt="Core Web Stack"
+/>
 
-**Data Systems** — document databases, relational databases and caching.
+<br/><br/>
 
-**AI Integration** — LLM APIs, AI-powered features, automation and intelligent web experiences.
+<img
+  src="https://skillicons.dev/icons?i=postgres,mysql,redis,python,git,github,vscode,vercel&theme=dark"
+  alt="Data and Tools"
+/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+`HTML` · `CSS` · `JavaScript` · `React` · `Next.js` · `Node.js` · `Express.js`
+
+`MongoDB` · `PostgreSQL` · `MySQL` · `Redis` · `Python`
+
+`Git` · `GitHub` · `VS Code` · `Vercel`
+
+</div>
+
+---
+
+## Engineering Areas
+
+### Frontend
+
+Modern web interfaces, application logic and client-side experiences.
+
+`HTML` · `CSS` · `JavaScript` · `React` · `Next.js`
+
+<br/>
+
+### Backend
+
+Server-side application logic, APIs, authentication and application structure.
+
+`Node.js` · `Express.js` · `REST APIs` · `Authentication`
+
+<br/>
+
+### Data
+
+Persistent application data across document databases, relational systems and caching layers.
+
+`MongoDB` · `PostgreSQL` · `MySQL` · `Redis`
+
+<br/>
+
+### AI
+
+Integrating intelligent capabilities into full-stack products and web applications.
+
+`LLM APIs` · `AI Features` · `Automation` · `Product Integration`
 
 ---
 
@@ -57,7 +116,7 @@ I build **full-stack web applications** across frontend, backend, APIs, database
 
 ```javascript
 const vaibh37 = {
-  stack: {
+  development: {
     frontend: ["HTML", "CSS", "JavaScript", "React", "Next.js"],
     backend: ["Node.js", "Express.js", "REST APIs"],
     data: ["MongoDB", "PostgreSQL", "MySQL", "Redis"]
@@ -67,25 +126,61 @@ const vaibh37 = {
 
   tooling: ["Git", "GitHub", "VS Code", "Vercel"],
 
-  domains: [
+  interests: [
     "Full-Stack Development",
     "Backend Systems",
-    "Databases",
-    "AI-powered Software"
+    "Database Architecture",
+    "AI-powered Applications"
   ]
 };
 ```
 
 ---
 
-## GitHub
+## Development Capabilities
 
 <div align="center">
 
-<img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vaibh37&theme=github_dark" />
+<img src="https://img.shields.io/badge/FRONTEND-WEB_INTERFACES-1F6FEB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/BACKEND-REST_APIs-339933?style=for-the-badge" />
 
-<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vaibh37&theme=github_dark" />
-<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vaibh37&theme=github_dark" />
+<br/>
+
+<img src="https://img.shields.io/badge/AUTH-AUTHENTICATION-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DATA-PERSISTENCE-4169E1?style=for-the-badge" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/AI-INTEGRATIONS-8B5CF6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DEPLOYMENT-VERCEL-000000?style=for-the-badge&logo=vercel" />
+
+</div>
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img
+  width="92%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vaibh37&theme=github_dark"
+  alt="GitHub profile overview"
+/>
+
+<br/><br/>
+
+<img
+  width="45%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vaibh37&theme=github_dark"
+  alt="GitHub stats"
+/>
+
+<img
+  width="45%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vaibh37&theme=github_dark"
+  alt="Languages"
+/>
 
 </div>
 
@@ -95,26 +190,60 @@ const vaibh37 = {
 
 <div align="center">
 
-<img width="58%" src="https://streak-stats.demolab.com?user=Vaibh37&theme=github-dark-blue&hide_border=true&border_radius=10" />
+<img
+  width="60%"
+  src="https://streak-stats.demolab.com?user=Vaibh37&theme=github-dark-blue&hide_border=true&border_radius=10"
+  alt="Contribution streak"
+/>
+
+<br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vaibh37/Vaibh37/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vaibh37/Vaibh37/output/github-snake.svg" />
-  <img width="92%" alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Vaibh37/Vaibh37/output/github-snake.svg" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Vaibh37/Vaibh37/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Vaibh37/Vaibh37/output/github-snake.svg"
+  />
+  <img
+    width="92%"
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/Vaibh37/Vaibh37/output/github-snake.svg"
+  />
 </picture>
 
 </div>
 
 ---
 
+## Explore
+
 <div align="center">
 
+My repositories contain the actual source code, implementations and project-specific documentation.
+
+<br/><br/>
+
 <a href="https://github.com/Vaibh37?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-1F6FEB?style=for-the-badge&logo=github&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-1F6FEB?style=for-the-badge&logo=github&logoColor=white"
+    alt="Repositories"
+  />
 </a>
 
 <a href="mailto:vaibhavsarda.dev@gmail.com">
-<img src="https://img.shields.io/badge/CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
 </a>
+
+<br/><br/>
+
+<sub>
+Full Stack • MERN • Backend • Databases • AI
+</sub>
 
 </div>
