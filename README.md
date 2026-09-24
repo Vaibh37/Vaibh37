@@ -1,37 +1,47 @@
 <div align="center">
 
+<img src="./header.gif" width="100%" alt="Profile Header" />
+
+<br>
+
 # Vaibhav
 
 ### Rust · C++ · Software Engineering
 
-<img src="https://skillicons.dev/icons?i=rust,cpp&theme=dark" height="52" alt="Rust and C++" />
+<img
+  src="https://skillicons.dev/icons?i=rust,cpp&theme=dark"
+  height="55"
+  alt="Rust and C++"
+/>
 
-<br/>
-
-**Rust first. C++ close behind.**
-
-<br/>
+<br><br>
 
 <img
-  src="https://komarev.com/ghpvc/?username=Vaibh37&label=PROFILE%20VIEWS&color=0366d6&style=flat-square"
-  alt="Profile views"
+  src="https://komarev.com/ghpvc/?username=Vaibh37&label=PROFILE%20VIEWS&color=0969da&style=flat-square"
+  alt="Profile Views"
 />
+
 &nbsp;
+
 <a href="mailto:devvaibhav37@gmail.com">
   <img
-    src="https://img.shields.io/badge/Vaibhav-0d1117?style=flat-square&logo=gmail&logoColor=white"
+    src="https://img.shields.io/badge/Vaibhav-111111?style=flat-square&logo=gmail&logoColor=white"
     alt="Email Vaibhav"
   />
 </a>
+
 &nbsp;
+
 <a href="https://x.com/AkagamiRust37">
   <img
-    src="https://img.shields.io/badge/@AkagamiRust37-0d1117?style=flat-square&logo=x&logoColor=white"
+    src="https://img.shields.io/badge/@AkagamiRust37-111111?style=flat-square&logo=x&logoColor=white"
     alt="X"
   />
 </a>
 
 </div>
+
+<br>
 
 ---
 
@@ -39,47 +49,88 @@
 
 I'm **Vaibhav**.
 
-Most of my time goes into **Rust, C++ and problem solving**. I like understanding how things work beneath the surface and building things instead of just collecting technologies.
+Most of my time goes into **Rust, C++ and problem solving**.
 
-I also use web technologies to turn ideas into actual products.
+I like understanding how things work beneath the surface, building things from scratch, and turning ideas into software that actually gets used.
+
+I also work with web technologies when I want to ship a product.
 
 My long-term direction is **AI engineering**.
+
+<br>
 
 ---
 
 ## Tech Stack
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=rust,cpp,c,python,js&theme=dark" />
+  <img
+    src="https://skillicons.dev/icons?i=rust,cpp,c,python,js&theme=dark"
+    alt="Languages"
+  />
 </p>
 
-`Rust` · `C++` · `C` · `Python` · `JavaScript`
+`Rust` `C++` `C` `Python` `JavaScript`
 
-### Web
+</td>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express&theme=dark" />
-</p>
-
-`HTML` · `CSS` · `React` · `Next.js` · `Node.js` · `Express`
+<td width="50%" valign="top">
 
 ### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" />
+  <img
+    src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark"
+    alt="Databases"
+  />
 </p>
 
-`MySQL` · `PostgreSQL` · `MongoDB`
+`MySQL` `PostgreSQL` `MongoDB`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Web
+
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express&theme=dark"
+    alt="Web Technologies"
+  />
+</p>
+
+`HTML` `CSS` `React`  
+`Next.js` `Node.js` `Express`
+
+</td>
+
+<td width="50%" valign="top">
 
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" />
+  <img
+    src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark"
+    alt="Tools"
+  />
 </p>
 
-`Git` · `GitHub` · `VS Code` · `Vercel`
+`Git` `GitHub` `VS Code` `Vercel`
+
+</td>
+</tr>
+</table>
+
+<br>
 
 ---
 
@@ -87,17 +138,23 @@ My long-term direction is **AI engineering**.
 
 ### StudyOS
 
-Student productivity platform built around focus sessions, tasks, XP, streaks and progress tracking.
+A student productivity platform built around **focus sessions, tasks, XP, streaks and progress tracking**.
 
 `React` · `Node.js` · `Express` · `MongoDB`
 
-[**Repository**](https://github.com/Vaibh37/Studyos) · [**Live**](https://studyos-one-omega.vercel.app)
+[**Repository →**](https://github.com/Vaibh37/Studyos)
+&nbsp;&nbsp;
+[**Live →**](https://studyos-one-omega.vercel.app)
+
+<br>
 
 ### QRify
 
-Lightweight privacy-focused QR generator with offline support.
+A lightweight privacy-focused QR generator with offline support.
 
 `HTML` · `CSS` · `JavaScript` · `PWA`
+
+<br>
 
 ---
 
@@ -107,30 +164,36 @@ Lightweight privacy-focused QR generator with offline support.
 
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vaibh37&theme=github_dark"
-  width="92%"
-  alt="GitHub profile summary"
+  width="94%"
+  alt="GitHub Activity"
 />
 
-<br/>
+<br><br>
 
 <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibh37&theme=dark&hide_border=true&background=0D1117"
-  alt="GitHub streak"
+  alt="GitHub Streak"
 />
 
 </div>
+
+<br>
 
 ---
 
 <div align="center">
 
-<a href="mailto:devvaibhav37@gmail.com"><b>Vaibhav</b></a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://x.com/AkagamiRust37"><b>X</b></a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://github.com/Vaibh37"><b>GitHub</b></a>
+<a href="mailto:devvaibhav37@gmail.com">
+  <b>Vaibhav</b>
+</a>
 
-<br/><br/>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+
+<a href="https://x.com/AkagamiRust37">
+  <b>@AkagamiRust37</b>
+</a>
+
+<br><br>
 
 <sub>37</sub>
 
