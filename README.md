@@ -1,41 +1,31 @@
 <div align="center">
 
-<img src="./header.gif" width="70%" alt="Profile Header" />
+<img src="./header.gif" height="140" alt="Header" />
 
-# Vaibhav
+<h1>Vaibhav</h1>
 
-### Rust · C++ · Software Engineering
+<p><b>Rust · C++ · Software Engineering</b></p>
 
-<img
-  src="https://skillicons.dev/icons?i=rust,cpp&theme=dark"
-  height="52"
-  alt="Rust and C++"
-/>
+<img src="https://skillicons.dev/icons?i=rust,cpp&theme=dark" height="44" alt="Rust and C++" />
 
-<br/>
-
-<img
-  src="https://komarev.com/ghpvc/?username=Vaibh37&label=PROFILE%20VIEWS&color=0969da&style=flat-square"
-  alt="Profile Views"
-/>
-
-&nbsp;
-
-<a href="mailto:devvaibhav37@gmail.com">
+<p>
   <img
-    src="https://img.shields.io/badge/Vaibhav-111111?style=flat-square&logo=gmail&logoColor=white"
-    alt="Email Vaibhav"
+    src="https://komarev.com/ghpvc/?username=Vaibh37&label=PROFILE%20VIEWS&color=0969da&style=flat-square"
+    alt="Profile Views"
   />
-</a>
-
-&nbsp;
-
-<a href="https://x.com/AkagamiRust37">
-  <img
-    src="https://img.shields.io/badge/@AkagamiRust37-111111?style=flat-square&logo=x&logoColor=white"
-    alt="X"
-  />
-</a>
+  <a href="mailto:devvaibhav37@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Vaibhav-111111?style=flat-square&logo=gmail&logoColor=white"
+      alt="Email Vaibhav"
+    />
+  </a>
+  <a href="https://x.com/AkagamiRust37">
+    <img
+      src="https://img.shields.io/badge/@AkagamiRust37-111111?style=flat-square&logo=x&logoColor=white"
+      alt="X"
+    />
+  </a>
+</p>
 
 </div>
 
@@ -45,9 +35,9 @@
 
 I'm **Vaibhav**.
 
-Most of my time goes into **Rust, C++ and problem solving**. I like understanding how things work beneath the surface and building software instead of just collecting technologies.
+Most of my time goes into **Rust, C++ and problem solving**. I like understanding how things work beneath the surface and building software that actually does something useful.
 
-I also use web technologies when I want to turn an idea into something people can actually use.
+I also use web technologies when I want to turn an idea into a product.
 
 My long-term direction is **AI engineering**.
 
@@ -55,47 +45,27 @@ My long-term direction is **AI engineering**.
 
 ## Tech Stack
 
-### Languages
+**Languages**
 
-<p>
-  <img
-    src="https://skillicons.dev/icons?i=rust,cpp,c,python,js&theme=dark"
-    alt="Languages"
-  />
-</p>
+<img src="https://skillicons.dev/icons?i=rust,cpp,c,python,js&theme=dark" height="42" alt="Languages" />
 
 `Rust` · `C++` · `C` · `Python` · `JavaScript`
 
-### Web
+**Web**
 
-<p>
-  <img
-    src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express&theme=dark"
-    alt="Web Technologies"
-  />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express&theme=dark" height="42" alt="Web" />
 
 `HTML` · `CSS` · `React` · `Next.js` · `Node.js` · `Express`
 
-### Databases
+**Databases**
 
-<p>
-  <img
-    src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark"
-    alt="Databases"
-  />
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" height="42" alt="Databases" />
 
 `MySQL` · `PostgreSQL` · `MongoDB`
 
-### Tools
+**Tools**
 
-<p>
-  <img
-    src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark"
-    alt="Tools"
-  />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" height="42" alt="Tools" />
 
 `Git` · `GitHub` · `VS Code` · `Vercel`
 
@@ -109,9 +79,7 @@ Student productivity platform built around focus sessions, tasks, XP, streaks an
 
 `React` · `Node.js` · `Express` · `MongoDB`
 
-[**Repository →**](https://github.com/Vaibh37/Studyos)
-&nbsp;&nbsp;
-[**Live →**](https://studyos-one-omega.vercel.app)
+[**Repository →**](https://github.com/Vaibh37/Studyos) · [**Live →**](https://studyos-one-omega.vercel.app)
 
 ### QRify
 
@@ -127,29 +95,14 @@ Lightweight privacy-focused QR generator with offline support.
 
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vaibh37&theme=github_dark"
-  width="90%"
+  width="88%"
   alt="GitHub Activity"
 />
 
-<br/>
-
 <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibh37&theme=dark&hide_border=true&background=0D1117"
+  height="165"
   alt="GitHub Streak"
 />
-
-</div>
-
----
-
-<div align="center">
-
-<a href="mailto:devvaibhav37@gmail.com"><b>Vaibhav</b></a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://x.com/AkagamiRust37"><b>@AkagamiRust37</b></a>
-
-<br/><br/>
-
-<sub>37</sub>
 
 </div>
