@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="./header.gif" width="100%" alt="Profile Header" />
-
-<br>
+<img src="./header.gif" width="70%" alt="Profile Header" />
 
 # Vaibhav
 
@@ -10,11 +8,11 @@
 
 <img
   src="https://skillicons.dev/icons?i=rust,cpp&theme=dark"
-  height="55"
+  height="52"
   alt="Rust and C++"
 />
 
-<br><br>
+<br/>
 
 <img
   src="https://komarev.com/ghpvc/?username=Vaibh37&label=PROFILE%20VIEWS&color=0969da&style=flat-square"
@@ -41,31 +39,21 @@
 
 </div>
 
-<br>
-
 ---
 
 ## About Me
 
 I'm **Vaibhav**.
 
-Most of my time goes into **Rust, C++ and problem solving**.
+Most of my time goes into **Rust, C++ and problem solving**. I like understanding how things work beneath the surface and building software instead of just collecting technologies.
 
-I like understanding how things work beneath the surface, building things from scratch, and turning ideas into software that actually gets used.
-
-I also work with web technologies when I want to ship a product.
+I also use web technologies when I want to turn an idea into something people can actually use.
 
 My long-term direction is **AI engineering**.
-
-<br>
 
 ---
 
 ## Tech Stack
-
-<table>
-<tr>
-<td width="50%" valign="top">
 
 ### Languages
 
@@ -76,28 +64,7 @@ My long-term direction is **AI engineering**.
   />
 </p>
 
-`Rust` `C++` `C` `Python` `JavaScript`
-
-</td>
-
-<td width="50%" valign="top">
-
-### Databases
-
-<p>
-  <img
-    src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark"
-    alt="Databases"
-  />
-</p>
-
-`MySQL` `PostgreSQL` `MongoDB`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
+`Rust` · `C++` · `C` · `Python` · `JavaScript`
 
 ### Web
 
@@ -108,12 +75,18 @@ My long-term direction is **AI engineering**.
   />
 </p>
 
-`HTML` `CSS` `React`  
-`Next.js` `Node.js` `Express`
+`HTML` · `CSS` · `React` · `Next.js` · `Node.js` · `Express`
 
-</td>
+### Databases
 
-<td width="50%" valign="top">
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark"
+    alt="Databases"
+  />
+</p>
+
+`MySQL` · `PostgreSQL` · `MongoDB`
 
 ### Tools
 
@@ -124,13 +97,7 @@ My long-term direction is **AI engineering**.
   />
 </p>
 
-`Git` `GitHub` `VS Code` `Vercel`
-
-</td>
-</tr>
-</table>
-
-<br>
+`Git` · `GitHub` · `VS Code` · `Vercel`
 
 ---
 
@@ -138,7 +105,7 @@ My long-term direction is **AI engineering**.
 
 ### StudyOS
 
-A student productivity platform built around **focus sessions, tasks, XP, streaks and progress tracking**.
+Student productivity platform built around focus sessions, tasks, XP, streaks and progress tracking.
 
 `React` · `Node.js` · `Express` · `MongoDB`
 
@@ -146,15 +113,11 @@ A student productivity platform built around **focus sessions, tasks, XP, streak
 &nbsp;&nbsp;
 [**Live →**](https://studyos-one-omega.vercel.app)
 
-<br>
-
 ### QRify
 
-A lightweight privacy-focused QR generator with offline support.
+Lightweight privacy-focused QR generator with offline support.
 
 `HTML` · `CSS` · `JavaScript` · `PWA`
-
-<br>
 
 ---
 
@@ -164,11 +127,11 @@ A lightweight privacy-focused QR generator with offline support.
 
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vaibh37&theme=github_dark"
-  width="94%"
+  width="90%"
   alt="GitHub Activity"
 />
 
-<br><br>
+<br/>
 
 <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibh37&theme=dark&hide_border=true&background=0D1117"
@@ -177,23 +140,15 @@ A lightweight privacy-focused QR generator with offline support.
 
 </div>
 
-<br>
-
 ---
 
 <div align="center">
 
-<a href="mailto:devvaibhav37@gmail.com">
-  <b>Vaibhav</b>
-</a>
-
+<a href="mailto:devvaibhav37@gmail.com"><b>Vaibhav</b></a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://x.com/AkagamiRust37"><b>@AkagamiRust37</b></a>
 
-<a href="https://x.com/AkagamiRust37">
-  <b>@AkagamiRust37</b>
-</a>
-
-<br><br>
+<br/><br/>
 
 <sub>37</sub>
 
