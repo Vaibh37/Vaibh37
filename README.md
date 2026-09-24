@@ -2,35 +2,31 @@
 
 # Vaibhav
 
-### `RUST // C++ // 37`
+### Rust · C++ · Software Engineering
 
-<img src="https://skillicons.dev/icons?i=rust,cpp&theme=dark" height="58" />
+<img src="https://skillicons.dev/icons?i=rust,cpp&theme=dark" height="52" alt="Rust and C++" />
 
-<br>
+<br/>
 
-**betting it all on rust.**
+**Rust first. C++ close behind.**
 
-<br>
+<br/>
 
 <img
-  src="https://komarev.com/ghpvc/?username=Vaibh37&label=PROFILE%20VIEWS&color=red&style=flat-square"
+  src="https://komarev.com/ghpvc/?username=Vaibh37&label=PROFILE%20VIEWS&color=0366d6&style=flat-square"
   alt="Profile views"
 />
-
 &nbsp;
-
 <a href="mailto:devvaibhav37@gmail.com">
   <img
-    src="https://img.shields.io/badge/Vaibhav-111111?style=flat-square&logo=gmail&logoColor=white"
+    src="https://img.shields.io/badge/Vaibhav-0d1117?style=flat-square&logo=gmail&logoColor=white"
     alt="Email Vaibhav"
   />
 </a>
-
 &nbsp;
-
 <a href="https://x.com/AkagamiRust37">
   <img
-    src="https://img.shields.io/badge/@AkagamiRust37-000000?style=flat-square&logo=x&logoColor=white"
+    src="https://img.shields.io/badge/@AkagamiRust37-0d1117?style=flat-square&logo=x&logoColor=white"
     alt="X"
   />
 </a>
@@ -39,45 +35,43 @@
 
 ---
 
-## About
+## About Me
 
 I'm **Vaibhav**.
 
-Most of my attention goes to **Rust, C++ and problem solving**.
+Most of my time goes into **Rust, C++ and problem solving**. I like understanding how things work beneath the surface and building things instead of just collecting technologies.
 
-I like understanding what my code is actually doing instead of just making it work.
+I also use web technologies to turn ideas into actual products.
 
-I also build and ship web products when an idea needs to leave my machine.
-
-**AI engineering is the long game.**
+My long-term direction is **AI engineering**.
 
 ---
 
-## ⚔ Arsenal
+## Tech Stack
 
-### Primary
-
-<p>
-  <img src="https://skillicons.dev/icons?i=rust,cpp,c&theme=dark" />
-</p>
-
-`Rust` · `C++` · `C`
-
-### Data
+### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,mongodb&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=rust,cpp,c,python,js&theme=dark" />
 </p>
 
-`Python` · `MySQL` · `PostgreSQL` · `MongoDB`
+`Rust` · `C++` · `C` · `Python` · `JavaScript`
 
 ### Web
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express&theme=dark" />
 </p>
 
-`HTML` · `CSS` · `JavaScript` · `React` · `Next.js` · `Node.js` · `Express`
+`HTML` · `CSS` · `React` · `Next.js` · `Node.js` · `Express`
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" />
+</p>
+
+`MySQL` · `PostgreSQL` · `MongoDB`
 
 ### Tools
 
@@ -89,51 +83,39 @@ I also build and ship web products when an idea needs to leave my machine.
 
 ---
 
-## Built
+## Projects
 
 ### StudyOS
 
-A productivity system built around **focus sessions, tasks, XP, streaks and progress**.
+Student productivity platform built around focus sessions, tasks, XP, streaks and progress tracking.
 
 `React` · `Node.js` · `Express` · `MongoDB`
 
-[**Repository →**](https://github.com/Vaibh37/Studyos)
-&nbsp;&nbsp;
-[**Live →**](https://studyos-one-omega.vercel.app)
-
-<br>
+[**Repository**](https://github.com/Vaibh37/Studyos) · [**Live**](https://studyos-one-omega.vercel.app)
 
 ### QRify
 
-A lightweight, privacy-focused QR generator built for speed and offline use.
+Lightweight privacy-focused QR generator with offline support.
 
 `HTML` · `CSS` · `JavaScript` · `PWA`
 
 ---
 
-## GitHub
+## GitHub Activity
 
 <div align="center">
 
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vaibh37&theme=github_dark"
-  width="95%"
+  width="92%"
   alt="GitHub profile summary"
 />
 
-<br><br>
+<br/>
 
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibh37&theme=dark&hide_border=true&background=0D1117&ring=DC2626&fire=F97316&currStreakLabel=F97316"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibh37&theme=dark&hide_border=true&background=0D1117"
   alt="GitHub streak"
-/>
-
-<br><br>
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Vaibh37&bg_color=0d1117&color=ffffff&line=dc2626&point=f97316&area=true&hide_border=true"
-  width="95%"
-  alt="Contribution graph"
 />
 
 </div>
@@ -142,12 +124,14 @@ A lightweight, privacy-focused QR generator built for speed and offline use.
 
 <div align="center">
 
-### `37`
+<a href="mailto:devvaibhav37@gmail.com"><b>Vaibhav</b></a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://x.com/AkagamiRust37"><b>X</b></a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://github.com/Vaibh37"><b>GitHub</b></a>
 
-<a href="mailto:devvaibhav37@gmail.com">Vaibhav</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://x.com/AkagamiRust37">X</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://github.com/Vaibh37">GitHub</a>
+<br/><br/>
+
+<sub>37</sub>
 
 </div>
