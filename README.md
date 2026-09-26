@@ -89,10 +89,12 @@ Lightweight privacy-focused QR generator with offline support.
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Vaibh37&show_icons=true&theme=github_dark&hide_border=true"
-  width="62%"
-  alt="Vaibhav GitHub Stats"
-/>
+<a href="https://git.io/awesome-stats-card">
+  <img
+    src="https://awesome-github-stats.azurewebsites.net/user-stats/Vaibh37?theme=github-dark&preferLogin=true"
+    width="62%"
+    alt="Vaibhav Awesome GitHub Stats"
+  />
+</a>
 
 </div>
