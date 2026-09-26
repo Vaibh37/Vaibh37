@@ -90,9 +90,9 @@ Lightweight privacy-focused QR generator with offline support.
 <div align="center">
 
 <img
-  src="https://gh-stats.com/api/Vaibh37"
-  width="88%"
-  alt="Vaibhav GitHub Score"
+  src="https://github-readme-stats.vercel.app/api?username=Vaibh37&show_icons=true&theme=github_dark&hide_border=true"
+  width="62%"
+  alt="Vaibhav GitHub Stats"
 />
 
 </div>
