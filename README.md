@@ -4,9 +4,9 @@
 
 <h1>Vaibhav</h1>
 
-<p><b>Rust · C++ · Software Engineering</b></p>
+<p><b>Rust · C++ · MERN</b></p>
 
-<img src="https://skillicons.dev/icons?i=rust,cpp&theme=dark" height="44" alt="Rust and C++" />
+<img src="https://skillicons.dev/icons?i=rust,cpp,mongodb,express,react,nodejs&theme=dark" height="44" alt="Rust, C++ and MERN" />
 
 <p>
   <img
@@ -35,39 +35,33 @@
 
 I'm **Vaibhav**.
 
-Most of my time goes into **Rust, C++ and problem solving**. I like understanding how things work beneath the surface and building software that actually does something useful.
+My main focus is **Rust and C++** — learning how software works beneath the surface, writing better code, improving problem-solving, and building a strong software engineering foundation.
 
-I also use web technologies when I want to turn an idea into a product.
+When I want to turn an idea into a real web product, I use the **MERN stack**.
 
-My long-term direction is **AI engineering**.
+I care more about understanding what I build than collecting technologies.
 
 ---
 
 ## Tech Stack
 
-**Languages**
+### Core
 
-<img src="https://skillicons.dev/icons?i=rust,cpp,c,python,js&theme=dark" height="42" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=rust,cpp&theme=dark" height="46" alt="Rust and C++" />
 
-`Rust` · `C++` · `C` · `Python` · `JavaScript`
+`Rust` · `C++`
 
-**Web**
+### MERN
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express&theme=dark" height="42" alt="Web" />
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=dark" height="46" alt="MERN Stack" />
 
-`HTML` · `CSS` · `React` · `Next.js` · `Node.js` · `Express`
+`MongoDB` · `Express` · `React` · `Node.js`
 
-**Databases**
+### Supporting
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" height="42" alt="Databases" />
+<img src="https://skillicons.dev/icons?i=c,python,js,nextjs,mysql,postgres,git,github,docker,vscode,vercel&theme=dark" height="42" alt="Supporting technologies" />
 
-`MySQL` · `PostgreSQL` · `MongoDB`
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" height="42" alt="Tools" />
-
-`Git` · `GitHub` · `VS Code` · `Vercel`
+`C` · `Python` · `JavaScript` · `Next.js` · `MySQL` · `PostgreSQL` · `Git` · `GitHub` · `Docker` · `VS Code` · `Vercel`
 
 ---
 
@@ -77,7 +71,7 @@ My long-term direction is **AI engineering**.
 
 Student productivity platform built around focus sessions, tasks, XP, streaks and progress tracking.
 
-`React` · `Node.js` · `Express` · `MongoDB`
+`MongoDB` · `Express` · `React` · `Node.js`
 
 [**Repository →**](https://github.com/Vaibh37/Studyos) · [**Live →**](https://studyos-one-omega.vercel.app)
 
@@ -87,22 +81,18 @@ Lightweight privacy-focused QR generator with offline support.
 
 `HTML` · `CSS` · `JavaScript` · `PWA`
 
+[**Repository →**](https://github.com/Vaibh37/qrify)
+
 ---
 
-## GitHub Activity
+## GitHub Score
 
 <div align="center">
 
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vaibh37&theme=github_dark"
+  src="https://gh-stats.com/api/Vaibh37"
   width="88%"
-  alt="GitHub Activity"
-/>
-
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibh37&theme=dark&hide_border=true&background=0D1117"
-  height="165"
-  alt="GitHub Streak"
+  alt="Vaibhav GitHub Score"
 />
 
 </div>
