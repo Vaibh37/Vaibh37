@@ -2,9 +2,9 @@
 
 <img src="./header.gif" height="140" alt="Header" />
 
-<h1>Vaibhav</h1>
+<h1>devvaibhav37</h1>
 
-<p><b>Rust · C++</b><br/>MERN</p>
+<p><b>Rust · C++ · MERN</b></p>
 
 <img src="https://skillicons.dev/icons?i=rust,cpp,mongodb,express,react,nodejs&theme=dark" height="44" alt="Rust, C++ and MERN" />
 
@@ -15,8 +15,8 @@
   />
   <a href="mailto:devvaibhav37@gmail.com">
     <img
-      src="https://img.shields.io/badge/Vaibhav-111111?style=flat-square&logo=gmail&logoColor=white"
-      alt="Email Vaibhav"
+      src="https://img.shields.io/badge/devvaibhav37-111111?style=flat-square&logo=gmail&logoColor=white"
+      alt="Email"
     />
   </a>
   <a href="https://x.com/AkagamiRust37">
@@ -31,45 +31,33 @@
 
 ---
 
-## About Me
+## Stack
 
-I'm **Vaibhav**.
-
-I mainly work with **Rust and C++**.
-
-I use **MERN** for building full-stack web applications.
-
-Currently focused on improving my problem solving, understanding software at a deeper level, and building better projects.
-
----
-
-## Tech Stack
-
-### Rust & C++
+### Core
 
 <img src="https://skillicons.dev/icons?i=rust,cpp&theme=dark" height="48" alt="Rust and C++" />
 
 `Rust` · `C++`
 
-### MERN
+### Web
 
-<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=dark" height="46" alt="MERN Stack" />
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,js&theme=dark" height="46" alt="Web stack" />
 
-`MongoDB` · `Express` · `React` · `Node.js`
+`MongoDB` · `Express` · `React` · `Node.js` · `Next.js` · `JavaScript`
 
-### Other Tools & Technologies
+### Also Used
 
-<img src="https://skillicons.dev/icons?i=c,python,js,nextjs,mysql,postgres,git,github,docker,vscode,vercel&theme=dark" height="42" alt="Other technologies" />
+<img src="https://skillicons.dev/icons?i=c,python,mysql,postgres,git,github,docker,vscode,vercel&theme=dark" height="42" alt="Other technologies" />
 
-`C` · `Python` · `JavaScript` · `Next.js` · `MySQL` · `PostgreSQL` · `Git` · `GitHub` · `Docker` · `VS Code` · `Vercel`
+`C` · `Python` · `MySQL` · `PostgreSQL` · `Git` · `GitHub` · `Docker` · `VS Code` · `Vercel`
 
 ---
 
-## Projects
+## Built
 
 ### StudyOS
 
-Student productivity platform built around focus sessions, tasks, XP, streaks and progress tracking.
+Full-stack productivity platform for focus sessions, tasks, XP, streaks and progress tracking.
 
 `MongoDB` · `Express` · `React` · `Node.js`
 
@@ -77,7 +65,7 @@ Student productivity platform built around focus sessions, tasks, XP, streaks an
 
 ### QRify
 
-Lightweight privacy-focused QR generator with offline support.
+Privacy-focused QR generator with offline support.
 
 `HTML` · `CSS` · `JavaScript` · `PWA`
 
@@ -85,7 +73,7 @@ Lightweight privacy-focused QR generator with offline support.
 
 ---
 
-## GitHub Score
+## GitHub
 
 <div align="center">
 
@@ -93,7 +81,7 @@ Lightweight privacy-focused QR generator with offline support.
   <img
     src="https://awesome-github-stats.azurewebsites.net/user-stats/Vaibh37?theme=github-dark&preferLogin=true"
     width="62%"
-    alt="Vaibhav Awesome GitHub Stats"
+    alt="GitHub Stats"
   />
 </a>
 
