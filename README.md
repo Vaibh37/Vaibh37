@@ -20,8 +20,7 @@
 
 ### About Me
 
-Computer Technology student working across **ML and Rust**.  
-Interested in systems, backend engineering, and open source.
+Working across **Rust, machine learning, systems, and backend engineering**.
 
 ---
 
