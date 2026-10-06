@@ -5,11 +5,11 @@
 ### ML · Rust
 
 <a href="mailto:devvaibhav37@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="22" height="22" alt="Email" title="Email" />
+  <img src="https://img.shields.io/badge/-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" title="Email" />
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <a href="https://x.com/devvaibhav37">
-  <img src="https://cdn.simpleicons.org/x/000000" width="20" height="20" alt="X" title="X" />
+  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=x&logoColor=white" alt="X" title="X" />
 </a>
 
 <br><br>
