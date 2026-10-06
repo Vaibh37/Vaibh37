@@ -7,16 +7,21 @@
 <a href="mailto:devvaibhav37@gmail.com">
   <img src="https://img.shields.io/badge/-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" title="Email" />
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://x.com/devvaibhav37">
   <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=x&logoColor=white" alt="X" title="X" />
 </a>
-
-<br><br>
-
+&nbsp;
 <img src="https://komarev.com/ghpvc/?username=Vaibh37&style=flat-square&label=views" alt="Profile Views" />
 
 </div>
+
+---
+
+### About Me
+
+Computer Technology student working across **ML and Rust**.  
+Interested in systems, backend engineering, and open source.
 
 ---
 
