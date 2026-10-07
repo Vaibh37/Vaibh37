@@ -12,12 +12,6 @@ backend, systems, open source, and ai/ml.
 
 <br/><br/>
 
-### Activity
-
-<img src="https://streak-stats.demolab.com?user=Vaibh37&hide_border=true" alt="GitHub Streak" />
-
-<br/>
-
 ### Connect
 
 <a href="https://x.com/devvaibhav37">
