@@ -29,7 +29,7 @@ i also contribute to open source and work on side projects.
 
 ### open source
 
-contributed to [Animicon](https://github.com/Keshavcodes3/Animicon) and [Webhands](https://github.com/AgentPostmortem/Webhands).
+contributed to [Animicon](https://github.com/Keshavcodes3/Animicon).
 
 ### featured work
 
