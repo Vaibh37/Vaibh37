@@ -11,7 +11,15 @@
   <img src="https://img.shields.io/badge/AI%2FML-111111?style=for-the-badge" alt="AI/ML" />
 </p>
 
-<br/>
+</div>
+
+### about me
+
+i'm vaibhav.
+
+currently focused on **rust, python, backend systems, and machine learning**.
+
+i also contribute to open source and work on side projects.
 
 ### tools
 
@@ -19,12 +27,17 @@
   <img src="https://skillicons.dev/icons?i=rust,python,docker,git,github" />
 </p>
 
+### open source
+
+contributed to [Animicon](https://github.com/Keshavcodes3/Animicon) and [Webhands](https://github.com/AgentPostmortem/Webhands).
+
+### featured work
+
+**[StudyOS](https://github.com/Vaibh37/Studyos)**  
+student productivity platform with focus sessions, tasks, streaks, XP, and social features.
+
 <br/>
 
-<code>rust for systems · python for ml</code>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Vaibh37&style=flat-square&label=profile+views" alt="Profile Views" />
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vaibh37&style=flat-square&label=profile+views" alt="Profile Views" />
 </div>
