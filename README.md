@@ -8,19 +8,7 @@ backend, systems, open source, and ai/ml.
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=rust,python,c,ts,react,nextjs,nodejs,mongodb,docker,git,github" />
-
-<br/><br/>
-
-### Connect
-
-<a href="https://x.com/devvaibhav37">
-  <img src="https://img.shields.io/badge/X-@devvaibhav37-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-</a>
-
-<a href="mailto:devvaibhav37@gmail.com">
-  <img src="https://img.shields.io/badge/Email-contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+<img src="https://skillicons.dev/icons?i=rust,python,c,docker,git,github" />
 
 <br/><br/>
 
