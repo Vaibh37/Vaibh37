@@ -1,43 +1,45 @@
 <div align="center">
 
-# vaibhav
+# Vaibhav
 
-### Rust · Python · Machine Learning
+**Machine Learning · Deep Learning · AI Systems**
 
-<p>
-  <img src="https://img.shields.io/badge/Systems-111111?style=for-the-badge" alt="Systems" />
-  <img src="https://img.shields.io/badge/Backend-111111?style=for-the-badge" alt="Backend" />
-  <img src="https://img.shields.io/badge/Open_Source-111111?style=for-the-badge&logo=github&logoColor=white" alt="Open Source" />
-  <img src="https://img.shields.io/badge/AI%2FML-111111?style=for-the-badge" alt="AI/ML" />
-</p>
+I am learning to build, deploy, and maintain machine learning systems.
+
+My goal is to understand the full ML workflow, from data to a running service.
 
 </div>
 
-### about me
+---
 
-i'm vaibhav.
+### Main Focus
 
-currently focused on **rust, python, backend systems, and machine learning**.
+- **Machine learning:** Study algorithms, data preparation, model evaluation, and optimization.
+- **Deep learning:** Learn how neural networks work and how to train them.
+- **ML engineering:** Study model inference, deployment, testing, and monitoring.
+- **AI systems:** Learn how to make model services reliable and efficient.
 
-i also contribute to open source and work on side projects.
+### Engineering Foundations
 
-### tools
+- **Python:** Write programs and implement ML concepts.
+- **Backend engineering:** Study APIs, databases, networking, and system design.
+- **Rust:** Learn systems programming, memory safety, and performance.
+- **Problem solving:** Practice data structures and algorithms.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=rust,python,docker,git,github" />
-</p>
+### Current Learning
 
-### open source
+```text
+Mathematics → ML Fundamentals → Neural Networks
+                                  ↓
+                       Model Evaluation
+                                  ↓
+                       Inference and APIs
+                                  ↓
+                       Deployment and Monitoring
+```
 
-contributed to [Animicon](https://github.com/Keshavcodes3/Animicon).
+I focus on one concept at a time. I test what I learn with code.
 
-### featured work
+---
 
-**[StudyOS](https://github.com/Vaibh37/Studyos)**  
-student productivity platform with focus sessions, tasks, streaks, XP, and social features.
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vaibh37&style=flat-square&label=profile+views" alt="Profile Views" />
-</div>
+<sub>Focus: AI/ML engineering and the systems that support it.</sub>
