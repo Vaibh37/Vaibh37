@@ -1,27 +1,23 @@
-<div align="center">
-
 # Vaibhav
 
-**Machine Learning · Deep Learning · AI Systems**
+## About Me
 
-I am learning to build, deploy, and maintain machine learning systems.
+I'm a self-taught developer focused on artificial intelligence and machine learning.
 
-My goal is to understand the full ML workflow, from data to a running service.
+I study how machine learning models work and how to use them in real software systems. I also explore backend engineering and systems programming.
 
-</div>
+## Focus
+
+- **AI/ML:** Machine learning, neural networks, and deep learning.
+- **ML Engineering:** Model training, evaluation, inference, and deployment.
+- **Backend Engineering:** APIs, databases, networking, and system design.
+- **Programming:** Python and Rust.
+
+## Goal
+
+Become an AI/ML engineer who can build, deploy, and maintain reliable, efficient, and scalable AI systems.
 
 ---
 
-### Main Focus
-
-- **Machine learning:** Study algorithms, data preparation, model evaluation, and optimization.
-- **Deep learning:** Learn how neural networks work and how to train them.
-- **ML engineering:** Study model inference, deployment, testing, and monitoring.
-- **AI systems:** Learn how to make model services reliable and efficient.
-
-### Engineering Foundations
-
-- **Python:** Write programs and implement ML concepts.
-- **Backend engineering:** Study APIs, databases, networking, and system design.
-- **Rust:** Learn systems programming, memory safety, and performance.
-- **Problem solving:** Practice data structures and algorithms.
+*“Winds are changing, aren’t they?”*  
+— Vaibhav
