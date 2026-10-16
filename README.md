@@ -1,21 +1,22 @@
 # Vaibhav
 
-## About Me
+**AI/ML | Neural Networks | LLMs**
 
-I'm a self-taught developer focused on artificial intelligence and machine learning.
+Interested in the mathematics, algorithms, and systems behind modern machine learning.
 
-I study how machine learning models work and how to use them in real software systems. I also explore backend engineering and systems programming.
+### Technical Focus
 
-## Focus
+- **Machine Learning:** Supervised learning, loss functions, gradient-based optimization
+- **Neural Networks:** Backpropagation, activation functions, automatic differentiation
+- **Deep Learning:** PyTorch, representation learning, neural architectures
+- **LLMs:** Tokenization, embeddings, attention, transformers, autoregressive modeling
+- **ML Systems:** Training pipelines, inference optimization, model serving, deployment
 
-- **AI/ML:** Machine learning, neural networks, and deep learning.
-- **ML Engineering:** Model training, evaluation, inference, and deployment.
-- **Backend Engineering:** APIs, databases, networking, and system design.
-- **Programming:** Python and Rust.
+### Objective
 
-## Goal
+Implement neural networks and language models from scratch, understand their internals, and build efficient ML systems.
 
-Become an AI/ML engineer who can build, deploy, and maintain reliable, efficient, and scalable AI systems.
+![Profile Views](https://komarev.com/ghpvc/?username=Vaibh37&label=Profile+Views&color=555555&style=flat-square)
 
 ---
 
