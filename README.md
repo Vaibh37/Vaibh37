@@ -16,7 +16,7 @@ Interested in the mathematics, algorithms, and systems behind modern machine lea
 
 Implement neural networks and language models from scratch, understand their internals, and build efficient ML systems.
 
-![Profile Views](https://komarev.com/ghpvc/?username=Vaibh37&label=Profile+Views&color=blue&style=flat-square)
+[![Profile Views](https://hits.sh/github.com/Vaibh37.svg?label=Profile%20Views&style=flat-square&color=007ec6)](https://hits.sh/github.com/Vaibh37/)
 
 ---
 
